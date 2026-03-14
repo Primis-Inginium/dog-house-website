@@ -1,0 +1,10 @@
+{
+  "Catalog": {
+    "title": "Dog House Catalog",
+    "all": "All",
+    "classic": "Classic",
+    "modern": "Modern",
+    "eco": "Eco",
+    "select": "Select"
+  }
+}
